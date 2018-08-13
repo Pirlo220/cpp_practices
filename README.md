@@ -1,2 +1,2 @@
-# cpp_practices
-Repo where practice some C++ 
+# C++ practices
+Algorithms and Data structures in C++.
